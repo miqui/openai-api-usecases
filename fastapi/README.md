@@ -1,4 +1,4 @@
-# openai-api-learning / fastapi
+# openai-api-usecases / fastapi
 
 FastAPI service that exposes OpenAI use cases 1 (chat), 5 (vision), and 6 (embeddings) as REST endpoints. Runs in a hardened distroless container.
 
