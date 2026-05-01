@@ -26,7 +26,7 @@ ENV PYTHONPATH="/app/.venv/lib/python3.11/site-packages" \
     PYTHONUNBUFFERED=1
 
 LABEL org.opencontainers.image.base.name="gcr.io/distroless/python3-debian12:nonroot" \
-      org.opencontainers.image.source="https://github.com/miqui/openai-api-learning"
+      org.opencontainers.image.source="https://github.com/miqui/openai-api-usecases"
 
 EXPOSE 8000
 

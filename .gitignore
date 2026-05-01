@@ -44,3 +44,6 @@ Thumbs.db
 
 # Docker
 *.tar
+
+# Remnant directories from uv init nested repos
+.git_bak/

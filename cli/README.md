@@ -1,4 +1,4 @@
-# openai-api-learning / cli
+# openai-api-usecases / cli
 
 Command-line interface for exploring OpenAI use cases 1, 5, and 6 using the Python SDK.
 

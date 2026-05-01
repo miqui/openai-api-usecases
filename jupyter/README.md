@@ -1,4 +1,4 @@
-# openai-api-learning / jupyter
+# openai-api-usecases / jupyter
 
 Interactive Jupyter notebooks for exploring OpenAI use cases 1, 5, and 6.
 

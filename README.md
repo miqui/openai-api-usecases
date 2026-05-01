@@ -1,4 +1,4 @@
-# openai-api-learning
+# openai-api-usecases
 
 A structured learning project for the OpenAI Python SDK, covering three use cases across three delivery formats.
 
@@ -80,7 +80,7 @@ docker run -p 8000:8000 --env-file .env openai-fastapi-demo:latest
 ## Repository Layout
 
 ```
-openai-api-learning/
+openai-api-usecases/
   cli/
     cli/main.py              # typer commands
     core/{config,logging}.py
